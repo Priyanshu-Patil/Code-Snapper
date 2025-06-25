@@ -1,1 +1,2 @@
 # Code Snapper
+## Features
